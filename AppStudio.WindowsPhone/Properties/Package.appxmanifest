@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="11c0de70-34ac-4411-ae39-d3b06ed36a8c" Publisher="CN=AppStudio" Version="1.0.3.0" />
-  <mp:PhoneIdentity PhoneProductId="4c1a6d42-5cf2-4aa9-b4b7-a04baeaa5eb9" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="31366Kshitij.SixPackAbs" Publisher="CN=31DAE921-5108-420E-A31E-D77E1C37C4AF" Version="1.5.0.0" />
+  <mp:PhoneIdentity PhoneProductId="1f07a36d-fac8-495d-87cb-ab638ae5aa9d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>AppStudio App</DisplayName>
-    <PublisherDisplayName>AppStudio</PublisherDisplayName>
+    <DisplayName>SixPackAbs</DisplayName>
+    <PublisherDisplayName>Kshitij</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>

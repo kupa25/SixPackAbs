@@ -16,6 +16,8 @@
     <ProjectTypeGuids>{76F1466A-8B6D-4E39-A767-685A06062A39};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
     <RestorePackages>true</RestorePackages>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -91,6 +93,7 @@
     <Content Include="Assets\AppBar\Refresh.png" />
     <Content Include="Assets\AppBar\TextToSpeech.png" />
     <Content Include="Assets\BadgeLogo.png" />
+    <None Include="Package.StoreAssociation.xml" />
     <Content Include="Views\DataTemplates\SportsIPractiseViews.xaml" />
   </ItemGroup>
   <ItemGroup>
